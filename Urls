@@ -2,5 +2,6 @@ AUTH
 oppeindct docs : https://documentation.openiddict.com/introduction?utm_source=chatgpt.com
 full auth with tenant : https://medium.com/@sergeygoodgood/multitenant-oauth-server-with-openiddict-and-multitenant-authorites-for-jwt-authentication-in-asp-c0f1764fff8a
 full auth  without tenant : https://medium.com/%40sergeygoodgood/openid-connect-and-oauth2-0-server-in-aspnetcore-using-openiddict-c463c6ebc082
+Saml With openIddict : https://docs.openiddictcomponents.com/saml2p/
 LOgging
 serlog : https://serilog.net/
